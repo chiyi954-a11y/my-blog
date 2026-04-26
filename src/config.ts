@@ -1,7 +1,7 @@
 export const SITE = {
   website: "https://devosfera.vercel.app/",
   author: "书信薛",
-  profile: "https://github.com/0xdres",
+  profile: "https://github.com/chiyi954-a11y",
   desc: "此博客我的学习经历和感悟",
   title: "极光",
   ogImage: "devosfera-og.webp", // located in the public folder
