@@ -1,5 +1,5 @@
 export const SITE = {
-  website: "https://devosfera.vercel.app/",
+  website: "https://chiyi.xyz/",
   author: "书信薛",
   profile: "https://github.com/chiyi954-a11y",
   desc: "此博客我的学习经历和感悟",
