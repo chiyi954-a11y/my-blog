@@ -31,13 +31,13 @@ const isStream = streamOverride ?? /^https?:\/\//i.test(src);
   data-duration={String(duration)}
   data-stream={isStream ? "true" : "false"}
   role="region"
-  aria-label="Compact audio player"
+  aria-label="音频播放器"
 >
   <button
     id="intro-audio-compact-btn"
     class="intro-audio-compact-btn"
     type="button"
-    aria-label="Play audio"
+    aria-label="播放"
   >
     <svg
       id="intro-audio-compact-play"
@@ -183,8 +183,8 @@ const isStream = streamOverride ?? /^https?:\/\//i.test(src);
 
     const store = getIntroAudioStore({ src, label, isStream, durationHint });
 
-    const playLabel = isStream ? "Play radio" : "Play audio";
-    const pauseLabel = isStream ? "Pause radio" : "Pause audio";
+    const playLabel = isStream ? "播放电台" : "播放";
+    const pauseLabel = isStream ? "暂停电台" : "暂停";
 
     const setPlaying = (playing: boolean) => {
       wrap.classList.toggle("is-playing", playing);

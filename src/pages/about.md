@@ -1,30 +1,30 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
+title: "关于我"
 ---
 
-Welcome to my digital corner. I am a **developer** and **student** passionate about technology, video games, and building things that live on the internet.
+欢迎来到我的数字角落。我是一名热爱技术、游戏和互联网创造的**开发者**和**学生**。
 
-## Who am I?
+## 我是谁？
 
-My name is Andrés, and since I can remember, I have always been curious about understanding how things work — from taking apart toys as a child to taking apart other people's code at 2 AM. I am currently studying engineering while developing projects that challenge me to learn something new every day.
+我是书信薛，从小就对事物的运作原理充满好奇——小时候拆玩具，现在深夜拆别人的代码。我目前在学习工程，同时开发能挑战自己的项目，每天学点新东西。
 
-When I am not programming, I am probably in some virtual world exploring maps, completing missions, or competing online. Video games are not just my hobby, they also taught me how to solve problems, work in a team, and, above all, not to give up after attempt #847.
+不写代码的时候，我可能在某个虚拟世界里探索地图、完成任务或在线竞技。游戏不仅是爱好，也教会了我解决问题、团队协作，以及最重要的是——在第 847 次失败后不放弃。
 
-## What I do
+## 我在做什么
 
-- **Web Development** — I love building modern web experiences with technologies like Astro, React, TypeScript, and everything the JavaScript ecosystem has to offer.
-- **Open Source** — I believe in the power of open source. You can find my projects on [GitHub](https://github.com/0xdres/).
-- **Continuous Learning** — I am always exploring new tools, frameworks, and concepts. Technology evolves fast and I like to keep up with the pace.
+- **Web 开发** — 热爱用 Astro、React、TypeScript 等技术构建现代的 Web 体验。
+- **开源** — 相信开源的力量。可以在 [GitHub](https://github.com/chiyi954-a11y) 找到我的项目。
+- **持续学习** — 不断探索新工具、新框架、新概念。技术迭代很快，我喜欢跟上节奏。
 
-## Gaming
+## 游戏
 
-Video games are part of my DNA. From epic RPGs to competitive shooters, I enjoy practically any genre. It's that space where creativity meets strategy and pure fun.
+游戏早已融入我的血液。从史诗级 RPG 到竞技射击，几乎所有类型都来者不拒。那是创意、策略和纯粹快乐交织的空间。
 
-## This blog
+## 关于这个博客
 
-**Devosfera** was born as a space to document my journey as a developer, share what I learn, and connect with people who share the same passions. Here you will find posts about development, technology, and the occasional random late-night reflection.
+**极光** 是我记录开发者旅程、分享所学和连接志同道合之人的空间。你会在这里找到关于开发、技术以及偶尔深夜的随想。
 
-If you want to connect, don't hesitate to find me on [GitHub](https://github.com/0xdres/), [X](https://x.com/avdyen), or [LinkedIn](https://www.linkedin.com/in/avdyan/). It is always good to meet cool people from the community.
+想联系我？欢迎在 [GitHub](https://github.com/chiyi954-a11y) 找到我。认识社区里有趣的人总是件好事。
 
-> _"Code is poetry, but with more semicolons."_ — Me, probably
+> _"代码是诗，只不过多了很多分号。"_ — 大概是我说的

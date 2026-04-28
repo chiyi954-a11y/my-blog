@@ -47,9 +47,9 @@ const srDate = new Intl.DateTimeFormat(locale, {
   timeZone: resolvedTimezone,
 }).format(datetime.toDate());
 
-const updatedText = "Updated:";
-const publishedText = "Published date";
-const updatedSrText = "Updated date";
+const updatedText = "更新于：";
+const publishedText = "发布日期";
+const updatedSrText = "更新日期";
 const srLabel = isModified ? updatedSrText : publishedText;
 ---
 

@@ -14,12 +14,12 @@ const breadcrumbs = buildBreadcrumbItems(Astro.url.pathname, {
   compactNumericPagination: true,
 });
 
-const currentPageLabel = breadcrumbs.at(-1)?.label ?? "Home";
+const currentPageLabel = breadcrumbs.at(-1)?.label ?? "首页";
 ---
 
 <nav
   class:list={["app-layout mt-6 mb-2", { "overflow-hidden": withBackButton }]}
-  aria-label={withBackButton ? "Contextual navigation" : "breadcrumb"}
+  aria-label={withBackButton ? "上下文导航" : "面包屑导航"}
 >
   <div class:list={["flex items-center gap-3", { "justify-between": withBackButton }]}>
     {withBackButton && (
@@ -47,11 +47,11 @@ const currentPageLabel = breadcrumbs.at(-1)?.label ?? "Home";
         <a
           href="/"
           class:list={["breadcrumb-home", { "breadcrumb-link-soft": withBackButton }]}
-          aria-label="Home"
-          title="Home"
+          aria-label="首页"
+          title="首页"
         >
           <span aria-hidden="true">~</span>
-          <span class="visually-hidden">Home</span>
+          <span class="visually-hidden">首页</span>
         </a>
       </li>
     {
